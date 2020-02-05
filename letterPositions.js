@@ -38,7 +38,7 @@ const letterPositions = function(sentence) {
 };
 
 
-console.log(letterPositions('some string'));
+console.log(letterPositions('some string')); 
 
 
 
