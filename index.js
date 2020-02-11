@@ -16,8 +16,6 @@ const takeUntil = require('./takeUntil');
 const assertArraysEqual = require('./assertArrayEqual');
 const without = require('./without');
 
-
-
 module.exports = {
   head,
   tail,
@@ -37,5 +35,3 @@ module.exports = {
   assertArraysEqual,
   without
 };
-
-console.log(module.exports);
