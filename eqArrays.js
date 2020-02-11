@@ -1,4 +1,3 @@
-const assertEqual = require('./assertEqual')
 const eqArrays = function(arrayOne, arrayTwo) {
   let isEqual;
   for (let i = 0; i < arrayOne.length; i++) {
